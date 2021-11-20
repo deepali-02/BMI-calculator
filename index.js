@@ -104,7 +104,8 @@ if (gender === "m"){
 var bmr = gender === "m" ? 10 * weightInKg + 6.25 * heightIncm - 5 * age + 50 : 10 * weightInKg + 6.25 * heightIncm - 5 * age - 150  ;
 */
 
-
+// add someting to test github
+console.log(`chech github`);
 
 let dailyCalories;
 
